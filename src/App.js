@@ -4,7 +4,7 @@ import TextForm from './components/TextForm';
 function myapp() {
   return (<>  
   <div className='container'> 
-   <TextForm heading ="Convert Text Into Uppercase"/></div>
+   <TextForm heading ="Convert Text"/></div>
 </>
 
   );
